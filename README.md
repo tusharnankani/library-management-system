@@ -11,10 +11,10 @@
 
 ### Tutorials
 
-- [A Beginner's Guide to Android App Development - Udemy](https://www.udemy.com/course/a-beginners-guide-to-android-app-development/)
 - [Setting up Android studio](https://youtu.be/InigFUSiPl8)
+- [A Beginner's Guide to Android App Development - Udemy](https://www.udemy.com/course/a-beginners-guide-to-android-app-development/)
 - [Android App Development - Coursera](https://www.coursera.org/learn/java-for-android/home/welcome)
-- [Android full Course](https://youtu.be/aS__9RbCyHg)
+- [Android Full Course - Youtube](https://youtu.be/aS__9RbCyHg)
 
 #### For layouts and more idea
 
