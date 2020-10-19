@@ -45,7 +45,6 @@ Without Authentication, just UI.
 - [Attractive - Splash Screen and Login Screen with Animation in Android Studio](https://www.youtube.com/watch?v=-7xLyPLJ_NI)
 - [Login Screen UI Design - Adobe XD to Android Studio XML](https://www.youtube.com/watch?v=IVE5ETGEoA4)
 
-
 ## TODO (till Friday) - 4 pages
 
 - **Home page Page** - Kavya
@@ -56,8 +55,8 @@ Without Authentication, just UI.
   - **Library**
     - books (Offline / **PDF - (sem --> subject wise)**)
       - <kbd>issue book</kbd>
-  - **Profile Page** - 
-  - **Login page** - FireBase
+  - **Profile Page** - Parth
+  - **Login page** - FireBase - Tushar
 
 #
   
@@ -69,6 +68,3 @@ If registered and logged in:
     - Due dates
 If not registered:
   - Registration form
-
-
-
