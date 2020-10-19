@@ -26,6 +26,10 @@
 - [Library Management System Android App](https://www.youtube.com/watch?v=B-CjB_dmQcw)
 - [Library Management App | App development](https://www.youtube.com/watch?v=HxUVoF0IfP4)
 
+### Color Coordination
+
+- [Color palettes](https://coolors.co/palettes/trending)
+
 ### Further references
 
 - [Library Management System](https://github.com/OSSpk/Library-Management-System-JAVA)
@@ -40,3 +44,31 @@ Without Authentication, just UI.
 - [Create beautiful login screen | Android Studio Tutorial - Without Authentication](https://www.youtube.com/watch?v=GAdGmJxfcf8)
 - [Attractive - Splash Screen and Login Screen with Animation in Android Studio](https://www.youtube.com/watch?v=-7xLyPLJ_NI)
 - [Login Screen UI Design - Adobe XD to Android Studio XML](https://www.youtube.com/watch?v=IVE5ETGEoA4)
+
+
+## TODO (till Friday) - 4 pages
+
+- **Home page Page** - Kavya
+  - LMS (logo)
+  - About details
+- **Bottom Navbar**
+  - Home 
+  - **Library**
+    - books (Offline / **PDF - (sem --> subject wise)**)
+      - <kbd>issue book</kbd>
+  - **Profile Page** - 
+  - **Login page** - FireBase
+
+#
+  
+- Profile page
+If registered and logged in:
+  - Personal
+  - Transaction
+    - Borrow history
+    - Due dates
+If not registered:
+  - Registration form
+
+
+
