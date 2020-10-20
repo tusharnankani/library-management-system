@@ -8,7 +8,7 @@
     tools:context=".ui.home.HomeFragment">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textViewHeading"
         android:layout_width="201dp"
         android:layout_height="117dp"
         android:text="Library Management System"
@@ -22,7 +22,7 @@
         app:layout_constraintVertical_bias="0.052" />
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/imageViewLogo"
         android:layout_width="64dp"
         android:layout_height="103dp"
         android:src="?android:attr/actionModeFindDrawable"
@@ -47,7 +47,7 @@
         app:layout_constraintVertical_bias="0.208" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textViewAbout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="ABOUT THE APP"
@@ -61,7 +61,7 @@
         app:layout_constraintVertical_bias="0.314" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textViewDescription"
         android:layout_width="238dp"
         android:layout_height="314dp"
         android:text="This app is made for the benefit of both the librarian as well as the readers to keep a track of their activities in the library and deal with the problems faced in the process. Feel free to contact us in case of any doubts. Happy Reading!"
@@ -73,4 +73,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.688" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
