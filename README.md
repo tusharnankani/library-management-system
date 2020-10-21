@@ -39,6 +39,8 @@
 #### Login page - Resources
 
 - [Login & Register Android App Using Firebase](https://www.youtube.com/watch?v=tbh9YaWPKKs)
+- [Login via Google](https://www.youtube.com/watch?v=E1eqRNTZqDM)
+- [Login via Phone](https://www.youtube.com/watch?v=w3Dg8LTmtTo)
 
 Without Authentication, just UI.
 
@@ -68,4 +70,4 @@ If registered and logged in:
     - Borrow history
     - Due dates
 If not registered:
-  - Registration form
+  - Registration form (via Phone/Google)
