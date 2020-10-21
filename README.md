@@ -40,7 +40,8 @@
 
 - [Login & Register Android App Using Firebase](https://www.youtube.com/watch?v=tbh9YaWPKKs)
 - [Login via Google](https://www.youtube.com/watch?v=E1eqRNTZqDM)
-- [Login via Phone](https://www.youtube.com/watch?v=w3Dg8LTmtTo)
+- [Login via Phone - 1](https://www.youtube.com/watch?v=w3Dg8LTmtTo)
+- [Login via Phone - 2](https://www.youtube.com/watch?v=YhCKylWLnq0)
 
 Without Authentication, just UI.
 
