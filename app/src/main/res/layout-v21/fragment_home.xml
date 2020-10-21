@@ -11,7 +11,7 @@
         android:id="@+id/textViewHeading"
         android:layout_width="201dp"
         android:layout_height="117dp"
-        android:text="@string/textViewHeading"
+        android:text="Library Management System"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         android:textStyle="bold"
@@ -32,14 +32,13 @@
         app:layout_constraintHorizontal_bias="0.083"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.05"
-        tools:targetApi="lollipop" />
+        app:layout_constraintVertical_bias="0.05" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="255dp"
         android:layout_height="15dp"
-        android:text="@string/button"
+        android:text="Button"
         app:backgroundTint="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -52,7 +51,7 @@
         android:id="@+id/textViewAbout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/textViewAbout"
+        android:text="ABOUT THE APP"
         android:textColor="#FFFFFF"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -66,7 +65,7 @@
         android:id="@+id/textViewDescription"
         android:layout_width="238dp"
         android:layout_height="314dp"
-        android:text="@string/textViewDescription"
+        android:text="This app is made for the benefit of both the librarian as well as the readers to keep a track of their activities in the library and deal with the problems faced in the process. Feel free to contact us in case of any doubts. Happy Reading!"
         android:textColor="#FFFFFF"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
