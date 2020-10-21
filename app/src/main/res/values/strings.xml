@@ -3,4 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="imageViewLogo">homePageLogo</string>
+    <string name="textViewDescription">This app is made for the benefit of both the librarian as well as the readers to keep a track of their activities in the library and deal with the problems faced in the process. Feel free to contact us in case of any doubts. Happy Reading!</string>
+    <string name="textViewAbout">ABOUT THE APP</string>
+    <string name="button">Button</string>
+    <string name="textViewHeading">Library Management System</string>
 </resources>
