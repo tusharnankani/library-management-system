@@ -2,15 +2,15 @@
 
 - Android Application
 
-## *Wireframe*
+## _Wireframe_
 
 ![LMS](documentation/images/wireframe.jpg)
 
-## *Class Diagram*
+## _Class Diagram_
 
 ![class-diagram](documentation/images/class-diagram.png)
 
-## *References*
+## _References_
 
 ### Tutorials
 
@@ -25,6 +25,7 @@
 - [Simple Library Management App In Android + Firebase With Source code](https://www.youtube.com/watch?v=HCQPtRrPPcE)
 - [Library Management System Android App](https://www.youtube.com/watch?v=B-CjB_dmQcw)
 - [Library Management App | App development](https://www.youtube.com/watch?v=HxUVoF0IfP4)
+- [Login & Register Android App Using Firebase | Android Studio Authentication Tutorials](https://www.youtube.com/watch?v=tbh9YaWPKKs)
 
 ### Color Coordination
 
@@ -55,7 +56,7 @@ Without Authentication, just UI.
   - LMS (logo)
   - About details
 - **Bottom Navbar**
-  - Home 
+  - Home
   - **Library**
     - books (Offline / **PDF - (sem --> subject wise)**)
       - <kbd>issue book</kbd>
@@ -63,12 +64,10 @@ Without Authentication, just UI.
   - **Login page** - FireBase - Tushar
 
 ##
-  
+
 - Profile page
-If registered and logged in:
+  If registered and logged in:
   - Personal
-  - Transaction
-    - Borrow history
-    - Due dates
-If not registered:
+  - Transaction - Borrow history - Due dates
+    If not registered:
   - Registration form (via Phone/Google)
