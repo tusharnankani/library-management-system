@@ -25,6 +25,7 @@
 - [Simple Library Management App In Android + Firebase With Source code](https://www.youtube.com/watch?v=HCQPtRrPPcE)
 - [Library Management System Android App](https://www.youtube.com/watch?v=B-CjB_dmQcw)
 - [Library Management App | App development](https://www.youtube.com/watch?v=HxUVoF0IfP4)
+- [Firebase | Build a Notes App](https://www.youtube.com/playlist?list=PLdHg5T0SNpN2NimxW3piNqEVBWtXcraz-)
 
 ### Color Coordination
 
@@ -38,6 +39,9 @@
 
 #### Login page - Resources
 
+- [Add Firebase to your Android project](https://firebase.google.com/docs/android/setup)
+- [Sign-in to your Android app with FirebaseUI](https://firebase.google.com/docs/auth/android/firebaseui)
+- [Adding SHA - 1 to Android Application](https://stackoverflow.com/questions/39144629/how-to-add-sha-1-to-android-application)
 - [Login & Register Android App Using Firebase](https://www.youtube.com/watch?v=tbh9YaWPKKs)
 - [Login via Google](https://www.youtube.com/watch?v=E1eqRNTZqDM)
 - [Login via Phone - 1](https://www.youtube.com/watch?v=w3Dg8LTmtTo)
