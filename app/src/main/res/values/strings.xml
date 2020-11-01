@@ -8,7 +8,6 @@
     <string name="textViewAbout">ABOUT THE APP</string>
     <string name="button">Button</string>
     <string name="textViewHeading">Library Management System</string>
+    <string name="buttonLoginRegister">Login / Register</string>
 
-    <string name="buttonGoogle">Continue with Google</string>
-    <string name="buttonPhone">Continue with Phone</string>
 </resources>
