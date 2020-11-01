@@ -25,11 +25,8 @@
 - [Simple Library Management App In Android + Firebase With Source code](https://www.youtube.com/watch?v=HCQPtRrPPcE)
 - [Library Management System Android App](https://www.youtube.com/watch?v=B-CjB_dmQcw)
 - [Library Management App | App development](https://www.youtube.com/watch?v=HxUVoF0IfP4)
-<<<<<<< HEAD
 - [Firebase | Build a Notes App](https://www.youtube.com/playlist?list=PLdHg5T0SNpN2NimxW3piNqEVBWtXcraz-)
-=======
 - [Login & Register Android App Using Firebase | Android Studio Authentication Tutorials](https://www.youtube.com/watch?v=tbh9YaWPKKs)
->>>>>>> cb9a208cd1902a795c2e0feac80804c187019033
 
 ### Color Coordination
 
