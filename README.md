@@ -54,11 +54,11 @@ Without Authentication, just UI.
 - [Attractive - Splash Screen and Login Screen with Animation in Android Studio](https://www.youtube.com/watch?v=-7xLyPLJ_NI)
 - [Login Screen UI Design - Adobe XD to Android Studio XML](https://www.youtube.com/watch?v=IVE5ETGEoA4)
 
-
-- **Home page Page**
+* **Home page Page**
   - LMS (logo)
   - About details
-- **Bottom Navbar**
+* **Bottom Navbar**
+
   - Home
   - **Library**
     - books (Offline / **PDF - (sem --> subject wise)**)
@@ -66,9 +66,7 @@ Without Authentication, just UI.
   - **Profile Page**
   - **Login page**
 
-- Profile page
-  If registered and logged in:
+* Profile page If registered and logged in:
   - Personal
-  - Transaction - Borrow history - Due dates
-    If not registered:
+  - Transaction - Borrow history - Due dates If not registered:
   - Registration form (via Phone/Google)
